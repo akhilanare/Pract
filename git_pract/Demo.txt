@@ -1,2 +1,2 @@
 Hello World
-Wwelcome to GIT
+Welcome to GIT
